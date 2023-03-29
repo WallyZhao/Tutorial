@@ -1,6 +1,6 @@
 # Object Oriented Programming Note #1 
 
-Object Oriented is awesome :D
+Object Oriented is awesome!
 
 ```python
 # Example of a Class Definition in Python 
@@ -12,3 +12,8 @@ class Person:
     return f'Person Object called {self.name}'
 ```
 * Not apostrophes but the tilde key to create a block of code
+
+## More Notes
+
+- ```class``` is a keyword in Python to create a class 
+- ```__init__()``` is a base override 
